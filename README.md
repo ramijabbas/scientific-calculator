@@ -1,8 +1,4 @@
 
-# 🧮 RAMIJ Scientific Calculator<img width="1906" height="986" alt="calculator dark" src="https://github.com/user-attachments/assets/bb913b29-6ae4-4b95-8c15-1c9838a5f9e6" />
-<img width="1902" height="971" alt="calculator light" src="https://github.com/user-attachments/assets/d111c4f6-e2da-4b31-9669-d999f41fe823" />
-
-
 RAMIJ Scientific Calculator is a command-line or GUI both  scientific calculator built using **C programming**,HTML,CSS,JAVA SCRIPT. The project provides an interactive terminal-based or GUI based interface for performing basic arithmetic, scientific calculations, and trigonometric operations.
 
 ## ✨ Features
